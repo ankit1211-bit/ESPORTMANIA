@@ -99,7 +99,7 @@ body{
 .box{
     height: 198px;
     width: 225px;
-    padding: 10px 8px 2px 8px ;
+    padding: 2px 8px 2px 8px ;
     margin-top: 1px;
     background: radial-gradient(#dd173fda,#ff242483);
     color: #faebd7;
